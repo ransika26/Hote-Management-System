@@ -1,0 +1,1 @@
+Database file location : C Drive (Cut "HotelDbase" folder and Paste in the C Drive)
